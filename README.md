@@ -9,6 +9,11 @@
 ## Prerequisites
 - JDL 5 or higher
 
+## Html Report
+![report _random_api](https://github.com/abanti07/Random-User-API-Performance-Test/assets/143074304/76b0e6e8-7bf2-4e3a-992c-fc6376a1d9f4)
+
+
+
 ## Load test result
 ![load](https://github.com/abanti07/Random-User-API-Performance-Test/assets/143074304/1f7a6150-c041-4a90-80a7-0b2f97393266)
 
