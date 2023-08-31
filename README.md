@@ -13,10 +13,8 @@
 ![report _random_api](https://github.com/abanti07/Random-User-API-Performance-Test/assets/143074304/76b0e6e8-7bf2-4e3a-992c-fc6376a1d9f4)
 
 
-
 ## Load test result
-![load](https://github.com/abanti07/Random-User-API-Performance-Test/assets/143074304/1f7a6150-c041-4a90-80a7-0b2f97393266)
-
+![load test](https://github.com/abanti07/Random-User-API-Performance-Test/assets/143074304/baf26b23-211a-4d92-b2fd-b2116df301d4)
 
 
 ## Stress test result
