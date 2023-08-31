@@ -4,10 +4,11 @@
 ### Apache JMeter can measure performance and load test static and dynamic web applications.In this project,load testing has been applied to the given api endpoint which is ([url](https://random-data-api.com/api/v2/users)).The load test is applied to find out what the system will behave with respect to different load.Later stress test has been applied.
 
 ## Tools and technology used:
-- JMETER
+- Apache JMETER
 
 ## Prerequisites
-- JDL 5 or higher
+- JDL 
+- JMETER
 
 ## Html Report
 ![report _random_api](https://github.com/abanti07/Random-User-API-Performance-Test/assets/143074304/76b0e6e8-7bf2-4e3a-992c-fc6376a1d9f4)
